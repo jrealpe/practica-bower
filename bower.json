@@ -1,0 +1,22 @@
+{
+  "name": "practica-bower",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "''"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jrealpe/practica-bower",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+    "jquery": "~3.1.1"
+  }
+}
